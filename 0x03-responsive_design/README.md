@@ -1,0 +1,1 @@
+This directory improves on theadvanced html and css projects by incorporating a responsive design to ensure thet the applicational features operate on different devices including mobile phones, tablets and laptops.
